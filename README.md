@@ -1,5 +1,5 @@
 # PowerBI
-Data Professional Survey - Power BI Project
+Data Professionals Survey - Power BI 
 
 This Power BI project is based on the Data Professional Survey dataset, which was created by Alex The Analyst on Twitter. The dataset contains responses from over 600 data professionals on topics such as job satisfaction, salary, and job responsibilities.
 

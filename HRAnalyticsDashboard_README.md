@@ -44,7 +44,7 @@ To use the HR Analytics Dashboard, follow the steps below:
 
 # Credits
 
-Data Source
+Data Source:
 
 The dataset used in this project is obtained from a YouTube channel named Rishabh Mishra (https://www.youtube.com/@RishabhMishraOfficial). The data represents employee attrition details for a particular company.
 

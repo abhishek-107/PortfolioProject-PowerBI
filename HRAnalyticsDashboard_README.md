@@ -12,10 +12,6 @@ HR_Analytics.csv: This file contains the dataset used in the project.
 
 README.md: This file contains information about the project and the repository.
 
-# Data Source
-
-The dataset used in this project is obtained from a YouTube channel named Rishabh Mishra. The data represents employee attrition details for a particular company.
-
 # Skills Utilized
 
 The following skills were utilized in this project:
@@ -45,3 +41,10 @@ To use the HR Analytics Dashboard, follow the steps below:
 2) Open the Dashboard.pbix file in Power BI Desktop.
 
 3) Explore the dashboard by interacting with the filters and slicers.
+
+# Credits
+
+Data Source
+
+The dataset used in this project is obtained from a YouTube channel named Rishabh Mishra (https://www.youtube.com/@RishabhMishraOfficial). The data represents employee attrition details for a particular company.
+

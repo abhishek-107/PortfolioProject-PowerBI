@@ -1,6 +1,6 @@
 # Data Professionals Survey 
 
-This Power BI project is based on the Data Professional Survey dataset, which was created by Alex The Analyst on Twitter. The dataset contains responses from over 600 data professionals on topics such as job satisfaction, salary, and job responsibilities.
+This Power BI project is based on the Data Professionals Survey dataset, which was created by Alex The Analyst on Twitter. The dataset contains responses from over 600 data professionals on topics such as job satisfaction, salary, and job responsibilities.
 
 # Objective
 
@@ -16,15 +16,15 @@ GitHub: Used to store and share the project files.
 
 # Files in the Repository
 
-Data Professional Survey.pbix: The Power BI file containing the visualizations and dashboards.
+Data Professionals Survey.pbix: The Power BI file containing the visualizations and dashboards.
 
-Data Professional Survey.xlsx: The original dataset in EXCEL format.
+Data Professionals Survey.xlsx: The original dataset in EXCEL format.
 
 README.md: This file.
 
 # How to Use
 
-To view the visualizations and interactive dashboards, open the Data Professional Survey.pbix file in Power BI Desktop. The data will automatically be loaded from the Data Professional Survey.xlsx file.
+To view the visualizations and interactive dashboards, open the Data Professionals Survey.pbix file in Power BI Desktop. The data will automatically be loaded from the Data Professional Survey.xlsx file.
 
 # Credits
 

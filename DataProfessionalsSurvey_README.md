@@ -30,4 +30,4 @@ To view the visualizations and interactive dashboards, open the Data Professiona
 
 Data source: Alex The Analyst (https://www.youtube.com/@AlexTheAnalyst)
 
-Tools used: Power BI, Power Query, GitHub
+
